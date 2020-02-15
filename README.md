@@ -84,3 +84,38 @@ END               ends the program
 CSSIZE          sets the console size
 
 INPUT             gets input from user
+
+
+### Colors
+
+0 Black
+
+1 White
+
+2 Dark Red
+
+3 Cyan
+
+4 Magenta
+
+5 Dark Green
+
+6 Dark Blue
+
+7 Yellow
+
+8 Dark Yellow
+
+9 Dark Magenta
+
+10 Red
+
+11 Dark Gray
+
+12 Gray
+
+13 Green
+
+14 Blue
+
+15 Gray
