@@ -27,7 +27,7 @@ Strings should be in quotes.
 
 
 
-> < and = works as expected including ==, <= and >=
+> < , > and = works as expected including ==, <= and >=
 
 
 
