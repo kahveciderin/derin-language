@@ -11,13 +11,14 @@ Example:
 
 
 
-Declaring a variable:
+
+### Declaring a variable
 
 20 a = 2
 
 
 
-Joining strings:
+### Joining strings
 
 30 PRINT "Hello ";"World"
 
@@ -32,11 +33,12 @@ Strings should be in quotes.
 
 
 
-Math: + - * / %
+### Math
++ - * / %
 
 
 
-AND and OR 
+### AND and OR 
 
 
 
@@ -48,7 +50,7 @@ AND and OR
 
 
 
-COMMANDS:
+### COMMANDS
 
 
 PRINT         prints out to the console
